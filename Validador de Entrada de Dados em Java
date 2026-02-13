@@ -12,7 +12,7 @@ Simula cenários comuns em sistemas que precisam garantir integridade das inform
 ## Como executar
 
 1. Compilar o arquivo:
-javac ValidadorEntrada.java
+ValidadorEntrada.java
 
 2. Executar o programa:
 java ValidadorEntrada
